@@ -1,29 +1,25 @@
-# This is a large heading
+## Brandyn Ryan
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm from New Hampshire but will be moving to California soon!
 
-- This is
-- an unordered
-- list
+## Reading
 
-1. This is
-2. an ordered
-3. list
+Three books i like are:
 
-Here is `some code` in the middle of a sentence.
+- *Lullaby* by Chuck Pahlaniuk
+- *Wizard and Glass* by Stephen King
+- *Of Mice and Men* by John Steinbeck
 
-```
-This is
-a block
-of code
-```
+## Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I am going to make shepherd's pie tonight! I have these ingredients:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. ground beef
+2. creamed corn in a can
+3. potatoes
 
+## Contact
+
+Hit up the 'gram [on Instagram](https://www.instagram.com/brando_calrisian_/)
